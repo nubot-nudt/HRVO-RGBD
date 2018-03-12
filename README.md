@@ -4,4 +4,4 @@
   
   This project cantians the basic implementation of HRVO-RGBD, in the files of se3optimization.h and se3optimization.cpp. The demonstration of applying this method in ORB-SLAM2 is also provided in this project.
   
-  Maintainer: NuBot workshop, NUDT China - http://nubot.trustie.com and https://github.com/nubot-nudt
+  Maintainer: NuBot workshop, NUDT China - http://nubot.trustie.net and https://github.com/nubot-nudt
